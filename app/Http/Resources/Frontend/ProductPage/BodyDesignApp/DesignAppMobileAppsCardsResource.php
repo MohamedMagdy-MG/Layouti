@@ -1,0 +1,21 @@
+<?php
+
+namespace App\Http\Resources\Frontend\ProductPage\BodyDesignApp;
+
+use Illuminate\Http\Resources\Json\JsonResource;
+
+class DesignAppMobileAppsCardsResource extends JsonResource
+{
+    /**
+     * Transform the resource into an array.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return array|\Illuminate\Contracts\Support\Arrayable|\JsonSerializable
+     */
+    public function toArray($request)
+    {
+        return [
+            'image' => $this->image != null ? env('APP_URL').$this->image : null,
+        ];
+    }
+}

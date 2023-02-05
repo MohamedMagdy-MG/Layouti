@@ -1,0 +1,8 @@
+<svg width="96" height="72" viewBox="0 0 96 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M82 56V50.6L75.42 50C75.14 49.06 74.78 48.18 74.32 47.34L78.4 42.12L73.88 37.6L68.66 41.68C67.82 41.22 66.92 40.86 66 40.58L65.2 34H58.8L58 40.58C57.06 40.86 56.18 41.22 55.34 41.68L50.12 37.6L45.6 42.12L49.68 47.34C49.22 48.18 48.86 49.06 48.58 50L42 50.6V56" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M68 56V54C68 50.68 65.32 48 62 48C58.68 48 56 50.68 56 54V56" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M34 6C34 9.32 36.68 12 40 12C43.32 12 46 9.32 46 6" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M8 56V6C8 3.72 9.8 2 12 2H84C86.2 2 88 3.72 88 6V56" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M94 60H58L56 62H42L40 60H2V62C2 66.42 5.58 70 10 70H86C90.42 70 94 66.42 94 62V60Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M16 6V12H24.52C24.9 13.46 25.48 14.84 26.22 16.12L20.2 22.14L25.86 27.8L31.88 21.78C33.16 22.54 34.54 23.1 36 23.48V32H44V23.48C45.46 23.1 46.84 22.52 48.12 21.78L54.14 27.8L59.8 22.14L53.78 16.12C54.54 14.84 55.1 13.46 55.48 12H64V6" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+</svg>
